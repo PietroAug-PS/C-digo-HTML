@@ -1,19 +1,17 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="pt-BR">
     <head>        
-        <style>
-            body {
-                 background-color:
-                 #ffffff;
-            }
-            
-        </style>
+        
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width,
+            initial-scale=1.0">
+            <link type="text/css"rel="stylesheet" href="style.css">
         <title>Jogos Online</title>
 
     
     </head>
     <body>
-        <p style="color:blueviolet; font-size: 30px">Jogos Online</p>
+        <p  style="text-align: center;" style="color:blueviolet; font-size: 30px">Jogos Online</p>
         <h1 style="color: red; font-size: 14px;">Na informática, o jogo online é um tipo de jogo eletrônico (videojogo) jogados via Internet, onde um jogador com um computador, vídeo game, gadgets, televisão ou outros tipos de aparelhos eletrônicos conectado à rede, pode jogar com outros jogadores sem que ambos precisem estar no mesmo ambiente. Sem sair de casa, o jogador pode desafiar em tempo real adversários que estejam em outros lugares do mundo (como se estivessem lado a lado), abrindo novas perspectivas de diversão.</h1>
         <p style="color: green; font-size: 30px;">Linguagens mais usadas para programar Jogos Online</p>
         <ul>
@@ -42,4 +40,3 @@
 
 
 </html>
-
