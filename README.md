@@ -5,15 +5,20 @@
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width,
             initial-scale=1.0">
-            <link type="text/css"rel="stylesheet" href="style.css">
-        <title>Jogos Online</title>
+            <link type="text/css"rel="stylesheet" href="css.css">
+        <title>Jogos indies</title>
 
     
     </head>
     <body>
-        <p  style="text-align: center;" style="color:blueviolet; font-size: 30px">Jogos Online</p>
-        <h1 style="color: red; font-size: 14px;">Na informática, o jogo online é um tipo de jogo eletrônico (videojogo) jogados via Internet, onde um jogador com um computador, vídeo game, gadgets, televisão ou outros tipos de aparelhos eletrônicos conectado à rede, pode jogar com outros jogadores sem que ambos precisem estar no mesmo ambiente. Sem sair de casa, o jogador pode desafiar em tempo real adversários que estejam em outros lugares do mundo (como se estivessem lado a lado), abrindo novas perspectivas de diversão.</h1>
-        <p style="color: green; font-size: 30px;">Linguagens mais usadas para programar Jogos Online</p>
+        <p>Jogos Indies/ single A</p>
+        <div>        <iframe width="560" height="315" src="https://www.youtube.com/embed/R2TjHDh4q-0?si=GkblxmQy2HUAX9wp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QF9tzn7UUIo?si=qnv5svpaQOSTBviT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+        </div>
+            <h1>Os jogos indies, ou independentes, são desenvolvidos por estúdios pequenos ou até por uma única pessoa, sem a dependência de grandes orçamentos ou editoras. A principal característica desses jogos é a liberdade criativa, permitindo aos desenvolvedores explorar ideias inovadoras sem as restrições do mercado mainstream. Isso resulta em jogos únicos, com estilos visuais distintos, mecânicas inovadoras e narrativas criativas. Exemplos de sucesso incluem *Hollow Knight*, *Celeste*, *Undertale* e *Stardew Valley*, que mostraram que é possível criar grandes experiências sem grandes recursos.</h1>
+        <p>Por que joggos indies fazem sucesso?</p>
         <ul>
            <li>C++</li>
            <li>C#</li>
@@ -36,7 +41,9 @@
             Ou seja, o mercado de desenvolvimento de jogos é vasto e diversificado, repleto de oportunidades para inovação e crescimento!
             
             </h3>
+            
     </body>
 
 
 </html>
+
