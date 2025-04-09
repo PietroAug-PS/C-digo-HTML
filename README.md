@@ -11,21 +11,27 @@
     
     </head>
     <body>
-        <p>Jogos Indies/ single A</p>
-        <div>        <iframe width="560" height="315" src="https://www.youtube.com/embed/R2TjHDh4q-0?si=GkblxmQy2HUAX9wp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-       
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/QF9tzn7UUIo?si=qnv5svpaQOSTBviT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        
+        <p>Jogos Indies/Single A</p>
+        <div>        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/R2TjHDh4q-0?si=GkblxmQy2HUAX9wp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QF9tzn7UUIo?si=qnv5svpaQOSTBviT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
             <h1>Os jogos indies, ou independentes, são desenvolvidos por estúdios pequenos ou até por uma única pessoa, sem a dependência de grandes orçamentos ou editoras. A principal característica desses jogos é a liberdade criativa, permitindo aos desenvolvedores explorar ideias inovadoras sem as restrições do mercado mainstream. Isso resulta em jogos únicos, com estilos visuais distintos, mecânicas inovadoras e narrativas criativas. Exemplos de sucesso incluem *Hollow Knight*, *Celeste*, *Undertale* e *Stardew Valley*, que mostraram que é possível criar grandes experiências sem grandes recursos.</h1>
         <p>Por que joggos indies fazem sucesso?</p>
         <ul>
-           <li>C++</li>
-           <li>C#</li>
-           <li>JavaScript</li>
+           <li>Criatividade e Inovação</li>
+           <li>Histórias e Temáticas Profundas</li>
+           <li>Acessibilidade</li>
+           <li>Desenvolvimento Menor e Mais Rápido</li>
+           <li>Comunidade e Engajamento</li>
+           <li>Diferenciação e Estilo Artístico Único</li>
+           <li>Distribuição Digital</li>
+           <li>Apelo Nostálgico</li>
+           <li>Suporte de Plataformas de Financiamento Coletivo</li>
+           <li>Experiências Curtas e Intensas</li>
         </ul>
-        <p style="color:crimson; font-size: 30px">Primeiramente, como é o mercado de desenvolvimento de jogos?</p>
-        <h2 style="color:darkgreen; font-size: 14px">A indústria de desenvolvimento de jogos está em constante crescimento, sendo totalmente impulsionada pelo progresso da tecnologia e pela crescente demanda por entretenimento. 
+        <p>Primeiramente, como é o mercado de desenvolvimento de jogos?</p>
+        <h2>A indústria de desenvolvimento de jogos está em constante crescimento, sendo totalmente impulsionada pelo progresso da tecnologia e pela crescente demanda por entretenimento. 
 
             O mercado abrange a criação, produção, distribuição e comercialização de jogos eletrônicos para diversas plataformas, como:</h2>
         <ul>
@@ -46,4 +52,3 @@
 
 
 </html>
-
