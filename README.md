@@ -53,7 +53,20 @@
             Construct, GameMaker, RPG Maker. </li>
         </ul>
         
-        <h3 class= "texto3"></h3>
+       <p class="Para_4">Jogos indies mais famosos/ Mais vendidos </p>
+
+       <ul>
+        <li>Celeste </li>
+        <li>Undestale</li>
+        <li>Hollow knight</li>
+        <li>Limbo</li>
+        <li>Hades</li>
+        <li>Don't Starve </li>
+        <li>Valheim</li>
+        <li>Subnautica</li>
+        <li>Terraria</li>
+        <li> Papers, Please</li>
+       </ul>
             
     </body>
 
