@@ -6,7 +6,10 @@
         initial-scale=1.0">
         <link type="text/css"rel="stylesheet" href="css.css">
         <title>Jogos indies</title>
-
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap" rel="stylesheet">
     
     </head>
     <body>
@@ -18,7 +21,7 @@
         <iframe width="725"height="320"src="https://www.youtube.com/embed/QF9tzn7UUIo?si=qnv5svpaQOSTBviT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
             
-        <h1>Os jogos indies, ou independentes, são desenvolvidos por estúdios pequenos ou até por uma única pessoa, sem a dependência de grandes orçamentos ou editoras. A principal característica desses jogos é a liberdade criativa, permitindo aos desenvolvedores explorar ideias inovadoras sem as restrições do mercado mainstream. Isso resulta em jogos únicos, com estilos visuais distintos, mecânicas inovadoras e narrativas criativas. Exemplos de sucesso incluem "Hollow Knight", "Celeste", "Undertale" e "Stardew Valley", que mostraram que é possível criar grandes experiências sem grandes recursos.</h1>
+        <h1 class= "texto1">Os jogos indies, ou independentes, são desenvolvidos por estúdios pequenos ou até por uma única pessoa, sem a dependência de grandes orçamentos ou editoras. A principal característica desses jogos é a liberdade criativa, permitindo aos desenvolvedores explorar ideias inovadoras sem as restrições do mercado mainstream. Isso resulta em jogos únicos, com estilos visuais distintos, mecânicas inovadoras e narrativas criativas.</h1>
         
         <p class="Para_2">Por que joggos indies fazem sucesso?</p>
         
@@ -37,7 +40,7 @@
         
         <p class="Para_3">Quais são as linguagens utilizadas para fazer jogos indies?</p>
         
-        <h2>Muitos jogos indies são utilizadas linguagens para ser programados, como qualquer jogo, parecem serem simples, (em muitas aspas é), pois estes tipos de jogos, são uma equipe pequena, como 5 ou 9, desenvolvedores, ou até menos, mas são usadas:</h2>
+        <h2 class= "texto2">Muitos jogos indies são utilizadas linguagens para ser programados, como qualquer jogo, parecem serem simples, (em muitas aspas é), pois estes tipos de jogos, são uma equipe pequena, como 5 ou 9, desenvolvedores, ou até menos, mas são usadas:</h2>
         
         <ul>
             <li>C#</li>
@@ -50,10 +53,9 @@
             Construct, GameMaker, RPG Maker. </li>
         </ul>
         
-        <h3></h3>
+        <h3 class= "texto3"></h3>
             
     </body>
 
 
 </html>
-
