@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width,
         initial-scale=1.0">
         <link type="text/css"rel="stylesheet" href="css.css">
+        <link type="text/html"rel="stylesheet" href="Balatro.html">
         <title>Jogos indies</title>
         
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -62,12 +63,21 @@
         <li>Cuphead: </li>
         <li>Hades: </li>
         <li>Don't Starve: </li>
-        <li>Valheim: <a color:  color: #95F9E3, href="https://valheim.fandom.com/wiki/Valheim_Wiki"> ver mais</a></li>
-        <li>Subnautica:  <a color:  color: #95F9E3, href="https://subnautica.fandom.com/pt-br/wiki/Subnautica_Wikia"> ver mais</a></li>
-        <li>Terraria:<a color:  color: #95F9E3, href="https://terraria.fandom.com/wiki/Terraria_Wiki"> ver mais</a></li>
-        <li> Papers, Please:  <a color:  color: #95F9E3, href="https://papersplease.fandom.com/wiki/Papers_Please_Wiki"> ver mais</a></li>
-        <li> </li>
-       </ul>
+        <li>Valheim: <a  color: #95F9E3, href="https://valheim.fandom.com/wiki/Valheim_Wiki"> ver mais</a></li>
+        <li>Subnautica:  <a  color: #95F9E3, href="https://subnautica.fandom.com/pt-br/wiki/Subnautica_Wikia"> ver mais</a></li>
+        <li>Terraria:<a  color: #95F9E3, href="https://terraria.fandom.com/wiki/Terraria_Wiki"> ver mais</a></li>
+        <li>Papers, Please:  <a  color: #95F9E3, href="https://papersplease.fandom.com/wiki/Papers_Please_Wiki"> ver mais</a></li>
+        <li>Minecraft: </li>
+        <li>Dead Cells: </li>
+        <li>Balatro: </li>
+        <li>Little Nightmares: </li>
+        <li>The Bidding of Isaac: </li>
+        </ul>
+
+       <p>Cada um dos jogos</p>
+
+       <a color="#95F9E3" , href="Balatro.html">Balatro</a>
+
             
     </body>
 
