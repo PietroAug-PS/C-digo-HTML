@@ -42,10 +42,4 @@ ul {
     inline-size:auto;
     background-color: #003249;
     font-size: 30px;
-    
-}
-div {
-    width:"715"; 
-    height:"315";
- 
 }
