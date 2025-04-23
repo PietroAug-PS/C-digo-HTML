@@ -56,16 +56,17 @@
        <p class="Para_4">Jogos indies mais famosos/ Mais vendidos </p>
 
        <ul>
-        <li>Celeste </li>
-        <li>Undestale</li>
-        <li>Hollow knight</li>
-        <li>Limbo</li>
-        <li>Hades</li>
-        <li>Don't Starve </li>
-        <li>Valheim</li>
-        <li>Subnautica</li>
-        <li>Terraria</li>
-        <li> Papers, Please</li>
+        <li>Celeste:  </li>
+        <li>Undertale: </li>
+        <li>Hollow knight: </li>
+        <li>Cuphead: </li>
+        <li>Hades: </li>
+        <li>Don't Starve: </li>
+        <li>Valheim: <a color:  color: #95F9E3, href="https://valheim.fandom.com/wiki/Valheim_Wiki"> ver mais</a></li>
+        <li>Subnautica:  <a color:  color: #95F9E3, href="https://subnautica.fandom.com/pt-br/wiki/Subnautica_Wikia"> ver mais</a></li>
+        <li>Terraria:<a color:  color: #95F9E3, href="https://terraria.fandom.com/wiki/Terraria_Wiki"> ver mais</a></li>
+        <li> Papers, Please:  <a color:  color: #95F9E3, href="https://papersplease.fandom.com/wiki/Papers_Please_Wiki"> ver mais</a></li>
+        <li> </li>
        </ul>
             
     </body>
