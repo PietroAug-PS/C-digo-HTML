@@ -1,1 +1,27 @@
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,
+        initial-scale=1.0">
+        <link type="text/css"rel="stylesheet" href="css.css">
+        <title>Jogos indies</title>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap" rel="stylesheet">
+    
+    </head>
+    <body>
+        <p class="Para_6">História</p>
+        <img width="1322" height="300" src="bannerhades.jpg">
+        <h1> Escape do inferno
+             Como o príncipe imortal do submundo, utilize o poder de armas míticas do Olimpo para escapar das garras do deus da morte, ficando cada vez mais forte e desvendando partes da história a cada nova tentativa de fuga.</h1>
+        <p class="Para_2">Personagens</p>
+        <h2>Hades, Zagreus , Charron.</h2>
+        <img src="FP_Charon.webp">
+        <img src="FP_Hades.webp">
+        <img src="FP_Zagreus.webp">
+        <p class="Para_2">Tipo de Jogo</p>
+        <h3>RPG de ação e exploração de masmorras rogue-like.</h3>
+    </body>
