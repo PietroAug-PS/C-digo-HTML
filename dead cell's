@@ -1,1 +1,24 @@
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,
+        initial-scale=1.0">
+        <link type="text/css"rel="stylesheet" href="css.css">
+        <title>Jogos indies</title>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap" rel="stylesheet">
+    
+    </head>
+    <body>
+        <p class="Para_6">História</p>
+        <img width="1322" height="300" src="bannerdeadcell.jpeg">
+        <h1> Dead Cells coloca você no meio de um experimento alquímico que falhou, onde você deve descobrir o que está acontecendo em uma ilha extensa, mutável e aparentemente amaldiçoada. Imortal, mas mutilado, seu último recurso é controlar corpos para se mover, explorar... e lutar. Você é imortal, mas seus corpos não.</h1>
+        <p class="Para_2">Personagens</p>
+        <h2>Robert Paulson.</h2>
+        <img src="dead cell.jpg">
+        <p class="Para_2">Tipo de Jogo</p>
+        <h3>jogo de ação em plataforma em estilo roguevania</h3>
+    </body>
