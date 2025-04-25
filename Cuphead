@@ -1,1 +1,27 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,
+        initial-scale=1.0">
+        <link type="text/css"rel="stylesheet" href="css.css">
+        <title>Jogos indies</title>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap" rel="stylesheet">
+    
+    </head>
+    <body>
+        <p class="Para_6">História</p>
+        <img width="1322" height="300" src="OIP.jpeg">
+        <h1>Cuphead apresenta dois jogadores que controlam o personagem-título e seu irmão Mugman, em uma aventura através da fictícia Inkwell Isle para derrotar uma série de chefes para pagar uma dívida adquirida com o diabo.</h1>
+        <p class="Para_2">Personagens</p>
+        <h2>Cuphead, Mugman, Devil, Kingdice</h2>
+        <img width= "1322" src="cuphead_3.webp">
+        <img src="images.jpeg">
+        <img src="diab.jpeg">
+        <p class="Para_2">Tipo de Jogo</p>
+        <h3>Plataformas e tiros em 2D.</h3>
+    </body>
