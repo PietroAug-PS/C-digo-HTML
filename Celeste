@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,
+        initial-scale=1.0">
+        <link type="text/css"rel="stylesheet" href="css.css">
+        <title>Jogos indies</title>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap" rel="stylesheet">
+    
+    </head>
 
+    <body>
+
+        <p class="Para_6">História</p>
+        <img width="1322" height="300" src="Banerceleste.jpeg">
+        <h1>A trama acompanha a história de Madeline, uma jovem garota que resolveu, em um ato imprudente, escalar até o topo da montanha Celeste apenas para provar para si mesma de que ela era capaz. Ao longo do árduo caminho até o topo, a protagonista descobre que precisa encarar o seu maior inimigo: literalmente ela mesma.</h1>
+        <p class="Para_2">Personagens</p>
+        <h2> Madeline, Badeline, Theo, Granny/Old woman, Mr. Oshiro, Bird.</h2>
+        <img src="perso1.webp">
+        <img src="Badeline.webp">
+        <img src="Mr._Oshiro-0.webp">
+        <img src="Granny.webp">
+        <img src="Theo_Instagram.webp">
+        <p class="Para_2">Tipo de Jogo</p>
+        <h3>Jogo de plataforma com obstaculos.</h3>
+   
+    </body>
