@@ -1,1 +1,27 @@
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,
+        initial-scale=1.0">
+        <link type="text/css"rel="stylesheet" href="css.css">
+        <title>Jogos indies</title>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap" rel="stylesheet">
+    
+    </head>
+    <body>
+        <p class="Para_6">História</p>
+        <img width="1322" height="300" src="1703262.webp">
+        <h1>Hollow Knight é um jogo de ação e aventura em estilo metroidvania 2D que se passa em Hallownest, antigo reino fictício. O jogador controla um silencioso receptáculo enquanto explora um mundo subterrâneo. O cavaleiro utiliza uma arma pontiaguda (chamada de ferrão), tanto em combate quanto para interação com o ambiente.</h1>
+        <p class="Para_2">Personagens</p>
+        <h2> O cavaleiro, Os sonhadores, Hollow Knight, Radience. </h2>
+        <img src="Knight_godmaster.webp">
+        <img src="Dreamers_Group.webp">
+        <img src="B_Radiance.webp">
+        <img width= "1322" src="Screenshot_HK_Hollow_Knight_02.webp">
+        <p class="Para_2">Tipo de Jogo</p>
+        <h3>Ação e aventura em estilo metroidvania 2D</h3>
+    </body>
