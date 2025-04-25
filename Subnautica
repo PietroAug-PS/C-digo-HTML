@@ -1,1 +1,25 @@
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,
+        initial-scale=1.0">
+        <link type="text/css"rel="stylesheet" href="css.css">
+        <title>Jogos indies</title>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap" rel="stylesheet">
+    
+    </head>
+    <body>
+        <p class="Para_6">História</p>
+        <img width="1322" height="300" src="bannersub.jpeg">
+        <h1> O jogador é um tripulante da nave Aurora que foi criada pela Alterra Corporation com um objetivo principal: construir uma base na região da estrela 4546 e um secundário, embora não revelado publicamente, encontrar os sobreviventes da nave mongol Degasi que caiu dez anos antes no planeta oceânico inexplorado 4546B</h1>
+        <p class="Para_2">Personagens</p>
+        <h2>Robin</h2>
+        <img src="subnautica-2-protagonists-v0-1h7ntxsy0nhe1.webp">
+        <p class="Para_2">Tipo de Jogo</p>
+        <h3>Aventura e sobrevivência de mundo aberto
+        </h3>
+    </body>
