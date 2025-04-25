@@ -1,1 +1,33 @@
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,
+        initial-scale=1.0">
+        <link type="text/css"rel="stylesheet" href="css.css">
+        <title>Jogos indies</title>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap" rel="stylesheet">
+    
+    </head>
+    <body>
+        <p class="Para_6">História</p>
+        <img width="1322" height="300" src="_image (8).jpg">
+        <h1> Acompanha a história de uma criança que caiu em um mundo subterrâneo, habitado por esqueletos falantes, fantasmas e monstros bizarros, e agora precisa encontrar uma maneira de sair de lá. Parece simples, não é? Mas não se deixe enganar.</h1>
+        <p class="Para_2">Personagens</p>
+        <h2>Frisk, Chara, Flowey, Toriel Dreemurr, Sans, Papyrus, Mettaton, Undyne, Alphys, Asgore Dreemurr.</h2>
+        <img src="_image (1).webp">
+        <img src="_image (2).webp">
+        <img src="_image (3).webp">
+        <img src="_image (4).webp">
+        <img src="_image (5).webp">
+        <img src="_image (6).webp">
+        <img src="_image (7).webp">
+        <img src="_image.webp">
+        <img src="Untitled-3.webp">
+        <img src="Mettaton.webp">
+        <p class="Para_2">Tipo de Jogo</p>
+        <h3>RPG fantástico</h3>
+    </body>
